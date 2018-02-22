@@ -1,0 +1,32 @@
+
+  [
+      {
+        "company": "2",
+        "from": "1",
+        "to": "3",
+        "leaves": "19:01",
+        "arrives": "16:00"
+      },
+      {
+        "company": "1",
+        "from": "1",
+        "to": "4",
+        "leaves": "18:00",
+        "arrives": "15:30"
+      },
+      {
+        "company": "3",
+        "from": "2",
+        "to": "4",
+        "leaves": "20:49",
+        "arrives": "15:30"
+      },
+      {
+        "company": "1",
+        "from": "2",
+        "to": "4",
+        "leaves": "10:30",
+        "arrives": "15:30"
+      }
+  ]
+

@@ -1,0 +1,16 @@
+{
+  "name": "isleofwight",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/api.js",
+  "scripts": {
+    "server": "node server/api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
